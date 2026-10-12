@@ -27,7 +27,6 @@
 ## 3. Cấu Trúc Thư Mục Dự Án
 
 ```text
-homework/session_11/ex4/
 ├── .github/
 │   └── workflows/
 │       └── ci.yml             # Kịch bản CI tích hợp Gradle Caching & GHCR Registry Login
